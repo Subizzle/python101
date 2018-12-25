@@ -1,0 +1,3 @@
+favorite_color = "blue"
+
+print('The color' , favorite_color, 'is my favorite!')
